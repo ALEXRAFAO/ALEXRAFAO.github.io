@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+# 嘿!欢迎来到ALEX的小小网站！
 
-You can use the [editor on GitHub](https://github.com/ALEXRAFAO/ALEXRAFAO.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 很抱歉，因为服务器问题，我无法在多上传一个页面，但我会尽快修复这个问题...
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ALEXRAFAO/ALEXRAFAO.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<embed src="//music.163.com/style/swf/widget.swf?sid=2379767225&type=0&auto=1&width=310&height=430" width="330" height="450"  allowNetworking="all"></embed>
